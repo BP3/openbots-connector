@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@camunda/zeebe-element-templates-json-schema/resources/schema.json",
-  "name": "test_openbots_connector",
+  "name": "OpenBots Connector",
   "id": "6a341cd2-8d96-4d03-bb3b-371b5b15fbcd",
   "version": 1704893310752,
   "description": "Orchestrate your OpenBots with Camunda. You can create new queue items and get the status from it",
